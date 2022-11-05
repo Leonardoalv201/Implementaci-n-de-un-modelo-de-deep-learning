@@ -8,4 +8,4 @@ Con este modelo de Deep Learning, podras clasificar una imagen para saber si est
 
 Dataset obtenido de: https://www.kaggle.com/code/hemendrasr/pizza-vs-ice-cream-quick-guide/data
 
-Video muestra:
+Video muestra: https://youtu.be/BiTb1Zsfh_c
